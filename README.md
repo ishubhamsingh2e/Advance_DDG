@@ -1,4 +1,4 @@
-#DuckduckMenu
+##DuckduckMenu
 
 ####If you are having issues with v3, the old version is available in releases.
 
