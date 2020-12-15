@@ -17,7 +17,7 @@ Tested on:
 - Native look
 
 
-![ddm](https://raw.githubusercontent.com/Jguer/DuckduckGo-Mextended/master/resources/Sample.jpg "DDM")
+![ddm](https://raw.githubusercontent.com/Sb2001nov/Advance_DDG/main/resources/Sample.png "DDM")
 Suitable for any DDG theme.
 
 MIT LICENSE
