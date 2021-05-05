@@ -1,6 +1,6 @@
-##DuckduckMenu
+## DuckduckMenu
 
-####If you are having issues with v3, the old version is available in releases.
+#### If you are having issues with v3, the old version is available in releases.
 
 Originally a fork of DuckduckGo Extended aimed at fixing bugs and improving quality.
 Fully revised code, updated to latest standards.
@@ -11,7 +11,7 @@ Tested on:
 - Firefox 36
 - Chrome 41
 
-###Features:
+### Features:
 - Default Engines: Google, Youtube, Wikipedia, Github, 4Anime, ThePirateBay,GoGoAnime,AniList.
 - Add and Remove Custom Engines.
 - Native look
